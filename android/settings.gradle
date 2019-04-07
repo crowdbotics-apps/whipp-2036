@@ -1,0 +1,3 @@
+rootProject.name = 'whipp_2036'
+
+include ':app'
